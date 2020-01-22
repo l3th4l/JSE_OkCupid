@@ -1,6 +1,6 @@
 OkCupid Profile Data for Intro Stats and Data Science Courses
 ================
-Albert Y. Kim and Adriana Escobedo-Land
+Albert Y. Kim & Adriana Escobedo-Land
 
 Data and code for [OkCupid Profile Data for Introductory Statistics and Data Science Courses](http://www.amstat.org/publications/jse/v23n2/kim.pdf) (Journal of Statistics Education July 2015, [Volume 23, Number 2](http://www.amstat.org/publications/jse/contents_2015.html)).
 
