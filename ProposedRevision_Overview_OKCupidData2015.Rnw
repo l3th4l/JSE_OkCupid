@@ -1,0 +1,41 @@
+\documentclass{article}
+
+\begin{document}
+
+\title{Proposed Revision- OkCupid Data for Introductory Statistics and Data Science Courses}
+\author{Albert Kim and Adriana Escobedo-Land}
+\maketitle
+
+\section*{Goal of Changes}
+
+\begin{itemize}
+  \item Remove personally identifiable data from essay data and provide new dataset
+  \item Maintain componenets of paper for research and pedagological value
+  \item Create data ethics example of the work
+\end{itemize}
+
+\section*{Suggested Actions}
+
+
+\subsubsection*{The Manuscript}
+
+\begin{itemize}
+  \item Pg 3 | Section 2 | Paragraph 1 | Line 2: Remove month and day from date "date redacted"
+  \item Pg 4 | Section 3 | Paragraph 1 | Line 4: Remove question 3; add "essay data redacted"
+  \item Pg 8 | Section 3.3.1 and 3.3.2: Remove; add "essay data redacted"
+  
+\end{itemize}
+
+\subsubsection*{The Data}
+
+\begin{itemize}
+  \item Remove metadata including month and date of data source
+  \item Add noise to "age" field
+  \item Remove "location" field
+  \item Remove "last online" field
+  \item Edit codebook accordingly
+  
+\end{itemize}
+
+
+\end{document}
